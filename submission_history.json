@@ -1,0 +1,85 @@
+[
+  {
+    "difficulty": "Easy",
+    "id": "381446696",
+    "lang": "Python 3",
+    "platform": "codeforces",
+    "rating": 800,
+    "statusDisplay": "Accepted",
+    "timestamp": 1783344718000,
+    "title": "Another Popcount Problem",
+    "titleSlug": "2240/A"
+  },
+  {
+    "id": "2058071532",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783343957000,
+    "title": "Remove Element",
+    "titleSlug": "remove-element"
+  },
+  {
+    "id": "2057004278",
+    "lang": "cpp",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783261791000,
+    "title": "Reverse Integer",
+    "titleSlug": "reverse-integer"
+  },
+  {
+    "id": "2055726287",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1783171142000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "1969347261",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775370667000,
+    "title": "Maximum Subarray",
+    "titleSlug": "maximum-subarray"
+  },
+  {
+    "id": "1969329285",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775369486000,
+    "title": "Product of Array Except Self",
+    "titleSlug": "product-of-array-except-self"
+  },
+  {
+    "id": "1969245111",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775362925000,
+    "title": "Contains Duplicate",
+    "titleSlug": "contains-duplicate"
+  },
+  {
+    "id": "1969212624",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775361015000,
+    "title": "Best Time to Buy and Sell Stock",
+    "titleSlug": "best-time-to-buy-and-sell-stock"
+  },
+  {
+    "id": "1969182067",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1775359900000,
+    "title": "Two Sum",
+    "titleSlug": "two-sum"
+  },
+  {
+    "id": "2059363961",
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "titleSlug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "timestamp": 1783432858000,
+    "lang": "java",
+    "statusDisplay": "Accepted"
+  }
+]
