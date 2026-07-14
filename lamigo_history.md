@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-14 | Codeforces | Way Too Long Words | Python 3 |
+| 2026-07-11 | Leetcode | Count the Number of Complete Components | java |
 | 2026-07-11 | Leetcode | Path Existence Queries in a Graph II | java |
 | 2026-07-10 | Leetcode | Reverse String | java |
 | 2026-07-09 | Leetcode | Path Existence Queries in a Graph I | java |
