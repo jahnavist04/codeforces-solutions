@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-22 | Leetcode | Plus One | java |
 | 2026-07-15 | Leetcode | Length of Last Word | java |
 | 2026-07-14 | Leetcode | 3Sum | java |
 | 2026-07-14 | Codeforces | Way Too Long Words | Python 3 |
