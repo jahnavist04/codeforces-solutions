@@ -1,5 +1,13 @@
 [
   {
+    "id": "2077260195",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1784732208000,
+    "title": "Plus One",
+    "titleSlug": "plus-one"
+  },
+  {
     "id": "2068332409",
     "lang": "java",
     "statusDisplay": "Accepted",
@@ -196,11 +204,25 @@
     "titleSlug": "two-sum"
   },
   {
-    "id": "2077260195",
-    "title": "Plus One",
-    "titleSlug": "plus-one",
-    "timestamp": 1784732208000,
-    "lang": "java",
-    "statusDisplay": "Accepted"
+    "title": "Bit++",
+    "titleSlug": "282/A",
+    "timestamp": 1785075204000,
+    "statusDisplay": "Accepted",
+    "lang": "Python 3",
+    "id": "384349646",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Bit++",
+    "titleSlug": "282/A",
+    "timestamp": 1785075109000,
+    "statusDisplay": "Accepted",
+    "lang": "Java 21",
+    "id": "384349434",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
   }
 ]
