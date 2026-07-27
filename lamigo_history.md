@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-26 | Leetcode | Maximum Product of Three Numbers | java |
 | 2026-07-26 | Codeforces | Bit++ | Python 3 |
 | 2026-07-26 | Codeforces | Bit++ | Java 21 |
 | 2026-07-22 | Leetcode | Plus One | java |
