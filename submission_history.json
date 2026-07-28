@@ -1,5 +1,13 @@
 [
   {
+    "id": "2083436042",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1785160652000,
+    "title": "Median of Two Sorted Arrays",
+    "titleSlug": "median-of-two-sorted-arrays"
+  },
+  {
     "id": "2082139502",
     "lang": "java",
     "statusDisplay": "Accepted",
@@ -234,11 +242,25 @@
     "titleSlug": "two-sum"
   },
   {
-    "id": "2083436042",
-    "title": "Median of Two Sorted Arrays",
-    "titleSlug": "median-of-two-sorted-arrays",
-    "timestamp": 1785160652000,
-    "lang": "java",
-    "statusDisplay": "Accepted"
+    "title": "Next Round",
+    "titleSlug": "158/A",
+    "timestamp": 1785246160000,
+    "statusDisplay": "Accepted",
+    "lang": "Python 3",
+    "id": "384641620",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Team",
+    "titleSlug": "231/A",
+    "timestamp": 1785161255000,
+    "statusDisplay": "Accepted",
+    "lang": "Python 3",
+    "id": "384523120",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
   }
 ]
