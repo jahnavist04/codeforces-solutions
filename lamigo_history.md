@@ -4,15 +4,20 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-07-29 | Codeforces | Domino piling | Python 3 |
+| 2026-07-29 | Leetcode | Roman to Integer | java |
 | 2026-07-28 | Leetcode | Divide Two Integers | java |
 | 2026-07-28 | Codeforces | Next Round | Python 3 |
 | 2026-07-27 | Codeforces | Team | Python 3 |
 | 2026-07-27 | Leetcode | Median of Two Sorted Arrays | java |
 | 2026-07-26 | Leetcode | Maximum Product of Three Numbers | java |
+| 2026-07-26 | Leetcode | Remove Duplicates from Sorted Array | java |
 | 2026-07-26 | Codeforces | Bit++ | Python 3 |
 | 2026-07-26 | Codeforces | Bit++ | Java 21 |
 | 2026-07-22 | Leetcode | Plus One | java |
 | 2026-07-15 | Leetcode | Length of Last Word | java |
+| 2026-07-15 | Leetcode | Length of Last Word | java |
+| 2026-07-14 | Leetcode | Valid Palindrome | java |
 | 2026-07-14 | Leetcode | 3Sum | java |
 | 2026-07-14 | Codeforces | Way Too Long Words | Python 3 |
 | 2026-07-11 | Leetcode | Count the Number of Complete Components | java |
