@@ -4,6 +4,8 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-08-06 | Codeforces | Theatre Square | Python 3 |
+| 2026-08-06 | Leetcode | Container With Most Water | java |
 | 2026-07-29 | Codeforces | Domino piling | Python 3 |
 | 2026-07-29 | Leetcode | Roman to Integer | java |
 | 2026-07-28 | Leetcode | Divide Two Integers | java |
