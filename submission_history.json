@@ -1,5 +1,13 @@
 [
   {
+    "id": "2099102277",
+    "lang": "java",
+    "statusDisplay": "Accepted",
+    "timestamp": 1786193333000,
+    "title": "Valid Parentheses",
+    "titleSlug": "valid-parentheses"
+  },
+  {
     "id": "2097453850",
     "lang": "java",
     "statusDisplay": "Accepted",
@@ -342,11 +350,36 @@
     "titleSlug": "two-sum"
   },
   {
-    "id": "2099102277",
-    "title": "Valid Parentheses",
-    "titleSlug": "valid-parentheses",
-    "timestamp": 1786193333000,
-    "lang": "java",
-    "statusDisplay": "Accepted"
+    "title": "Even Odds",
+    "titleSlug": "318/A",
+    "timestamp": 1788617813000,
+    "statusDisplay": "Accepted",
+    "lang": "Python 3",
+    "id": "389467468",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 900
+  },
+  {
+    "title": "Boy or Girl",
+    "titleSlug": "236/A",
+    "timestamp": 1788280619000,
+    "statusDisplay": "Accepted",
+    "lang": "Python 3",
+    "id": "389118895",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
+  },
+  {
+    "title": "Elephant",
+    "titleSlug": "617/A",
+    "timestamp": 1786193450000,
+    "statusDisplay": "Accepted",
+    "lang": "Python 3",
+    "id": "386216434",
+    "platform": "codeforces",
+    "difficulty": "Easy",
+    "rating": 800
   }
 ]
