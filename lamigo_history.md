@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-09-05 | Codeforces | Even Odds | Python 3 |
+| 2026-09-01 | Codeforces | Boy or Girl | Python 3 |
+| 2026-08-08 | Codeforces | Elephant | Python 3 |
 | 2026-08-08 | Leetcode | Valid Parentheses | java |
 | 2026-08-07 | Leetcode | Median of Two Sorted Arrays | java |
 | 2026-08-06 | Codeforces | Theatre Square | Python 3 |
