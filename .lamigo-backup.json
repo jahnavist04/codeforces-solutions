@@ -1,0 +1,108 @@
+{
+  "darkMode": false,
+  "friend_identities_v2": [
+    {
+      "accounts": [
+        {
+          "handle": "Jahnavi_04",
+          "lastFetched": 1783344741257,
+          "platform": "codeforces",
+          "status": "active"
+        }
+      ],
+      "addedAt": 1783344741257,
+      "aliases": [],
+      "displayName": "Jahnavi_04",
+      "id": "4636a7df-2bed-4f06-96b0-b11d8d9f8b6f",
+      "updatedAt": 1783344741257
+    }
+  ],
+  "own_codechef_handle": "",
+  "own_codeforces_handle": "Jahnavi_04",
+  "own_username": "",
+  "sync_history": [
+    {
+      "problems": [
+        "Beautiful Matrix",
+        "Even Odds"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1788617974745
+    },
+    {
+      "problems": [],
+      "problemsSynced": 44,
+      "status": "success",
+      "timestamp": 1788617962021
+    },
+    {
+      "problems": [
+        "Theatre Square",
+        "Elephant"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1788617950458
+    },
+    {
+      "problems": [
+        "Median of Two Sorted Arrays"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1786257231288
+    },
+    {
+      "problems": [
+        "Remove Duplicates from Sorted Array"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1786080464172
+    },
+    {
+      "problems": [
+        "Container With Most Water"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1786025637823
+    },
+    {
+      "problems": [
+        "Valid Palindrome",
+        "Domino piling"
+      ],
+      "problemsSynced": 2,
+      "status": "success",
+      "timestamp": 1785342341821
+    },
+    {
+      "problems": [
+        "Roman to Integer",
+        "Team",
+        "Length of Last Word"
+      ],
+      "problemsSynced": 3,
+      "status": "success",
+      "timestamp": 1785342276390
+    },
+    {
+      "problems": [
+        "Divide Two Integers"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1785298276311
+    },
+    {
+      "problems": [
+        "Next Round"
+      ],
+      "problemsSynced": 1,
+      "status": "success",
+      "timestamp": 1785246608854
+    }
+  ]
+}
