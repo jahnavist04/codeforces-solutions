@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-19 | Leetcode | Count the Number of Special Characters I | python |
 | 2026-10-19 | Leetcode | Jump Game V | python |
 | 2026-10-19 | Leetcode | Find Target Indices After Sorting Array | python |
 | 2026-10-16 | Leetcode | Valid Palindrome | python |
