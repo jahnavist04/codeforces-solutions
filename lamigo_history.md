@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-28 | Leetcode | Minimum Cost of Buying Candies With Discount | python |
 | 2026-10-24 | Leetcode | Count Days Spent Together | python |
 | 2026-10-19 | Leetcode | Count the Number of Special Characters I | python |
 | 2026-10-19 | Leetcode | Jump Game V | python |
