@@ -1,5 +1,13 @@
 [
   {
+    "id": "2180328237",
+    "lang": "python",
+    "statusDisplay": "Accepted",
+    "timestamp": 1792836143000,
+    "title": "Count Days Spent Together",
+    "titleSlug": "count-days-spent-together"
+  },
+  {
     "id": "2176338765",
     "lang": "python",
     "statusDisplay": "Accepted",
@@ -426,10 +434,10 @@
     "titleSlug": "two-sum"
   },
   {
-    "id": "2180328237",
-    "title": "Count Days Spent Together",
-    "titleSlug": "count-days-spent-together",
-    "timestamp": 1792836143000,
+    "id": "2183999600",
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "titleSlug": "minimum-cost-of-buying-candies-with-discount",
+    "timestamp": 1793199335000,
     "lang": "python",
     "statusDisplay": "Accepted"
   }
