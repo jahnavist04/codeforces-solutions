@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-10-31 | Leetcode | Longest Substring Without Repeating Characters | python |
 | 2026-10-30 | Leetcode | String to Integer (atoi) | python |
 | 2026-10-30 | Leetcode | Zigzag Conversion | python |
 | 2026-10-28 | Leetcode | Minimum Cost of Buying Candies With Discount | python |
