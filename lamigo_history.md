@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-02 | Leetcode | Minimum Moves to Equal Array Elements II | python |
 | 2026-10-31 | Leetcode | 3Sum | python |
 | 2026-10-31 | Leetcode | Longest Substring Without Repeating Characters | python |
 | 2026-10-30 | Leetcode | String to Integer (atoi) | python |
