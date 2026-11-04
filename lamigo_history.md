@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-04 | Leetcode | Regular Expression Matching | python |
 | 2026-11-03 | Leetcode | Longest Palindromic Substring | python |
 | 2026-11-02 | Leetcode | Minimum Moves to Equal Array Elements II | python |
 | 2026-10-31 | Leetcode | 3Sum | python |
