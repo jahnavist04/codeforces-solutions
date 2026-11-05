@@ -4,6 +4,9 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-05 | Leetcode | Letter Combinations of a Phone Number | python |
+| 2026-11-05 | Leetcode | Find the Pivot Integer | python |
+| 2026-11-05 | Leetcode | Can Make Arithmetic Progression From Sequence | python |
 | 2026-11-04 | Leetcode | Roman to Integer | python |
 | 2026-11-04 | Leetcode | Regular Expression Matching | python |
 | 2026-11-03 | Leetcode | Longest Palindromic Substring | python |
