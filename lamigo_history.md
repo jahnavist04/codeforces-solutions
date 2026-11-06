@@ -4,6 +4,7 @@ A complete history of all accepted submissions synced by L'Amigo.
 
 | Date | Platform | Problem | Language |
 | :--- | :--- | :--- | :--- |
+| 2026-11-05 | Leetcode | Valid Sudoku | python |
 | 2026-11-05 | Leetcode | Letter Combinations of a Phone Number | python |
 | 2026-11-05 | Leetcode | Find the Pivot Integer | python |
 | 2026-11-05 | Leetcode | Can Make Arithmetic Progression From Sequence | python |
